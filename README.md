@@ -19,8 +19,16 @@ O objetivo deste projeto é caracterizar quantitativamente o universo das OSCs n
 Nossa análise confirmou 3 hipóteses principais:
 
 1.  **Concentração Geográfica:** Existe uma forte concentração de OSCs na capital, **Natal**, e nos maiores centros urbanos, como Mossoró.
-2.  **Perfil de Atuação:** As áreas de **Religião** e **Desenvolvimento e Defesa de Direitos** são as mais prevalentes, indicando um foco forte em atividades de base comunitária.
+
+[img1](/projeto-osc-rn/img/img1.png)
+
+2.   *Perfil de Atuação:** As áreas de **Religião** e **Desenvolvimento e Defesa de Direitos** são as mais prevalentes, indicando um foco forte em atividades de base comunitária.
+
+[img3](img/img3.png)
+
 3.  **Saúde Cadastral:** Quase **27%** das organizações no RN estão com o status de **"Inapta"**, sinalizando um desafio significativo de sustentabilidade e regularização.
+
+[img2](img/img2.png)
 
 *Para ver os gráficos e a análise completa, abra o notebook `analise-osc-rn.ipynb`.*
 
